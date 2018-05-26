@@ -1,0 +1,2 @@
+# Hero
+Laravel + React + Redux
